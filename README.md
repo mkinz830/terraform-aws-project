@@ -1,4 +1,6 @@
----
+# Terraform AWS Infrastructure Project
+
+This project demonstrates...
 
 ## 📸 Screenshots
 
